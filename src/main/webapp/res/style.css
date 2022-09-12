@@ -1,0 +1,10 @@
+table {
+    border-spacing: 0 10px;
+    font:  bold 100% Georgia, serif;
+    margin: 40px auto;
+    background: bisque;
+    text-align: center;
+    vertical-align: middle;
+    width: 50%;
+    border: solid black;
+}
